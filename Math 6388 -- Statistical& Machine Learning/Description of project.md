@@ -1,3 +1,3 @@
 # Machine Learning Final Project
 
-For this project, I was tasked with taking a popular machine learning method or technique, explaining about the method and applying it to a dataset of my own choosing. 
+For this project, I was tasked with taking a popular machine learning method or technique, explaining about the method and applying it to a dataset of my own choosing. The data that I choose to use for this project comes from The Behavioral Risk Factor Surveillance System (BRFSS). The survey collects state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. The dataset can be found https://www.cdc.gov/brfss/annual_data/annual_2018.html website. My main goal was to see how well do different MARS models can predict the “health” of an individual.
